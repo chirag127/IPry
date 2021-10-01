@@ -1,6 +1,6 @@
 {
-  "name": "your current IP address",
-  "description": "gives your current IP address whenever you click it!",
+  "name": "IPry",
+  "description": "Gives your current IP address whenever you click it!",
   "version": "1.0",
   "manifest_version": 2,
 
