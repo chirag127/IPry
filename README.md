@@ -1,6 +1,6 @@
 # IPry
 
-IPry is a open source browser extension.This browser extension gives your current IP address whenever you click the extension. Please pin the extension to use it properly.
+IPry is an open source browser extension.This browser extension gives your current IP address whenever you click the extension. Please pin the extension to use it properly.
 
 ## Installation Instructions
 
